@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Nizamuddin</h1>
-<h3 align="center">Front-End Developer | React Developer</h3>
+<h3 align="center">💻 Front-End Developer | React Developer 📍 Delhi, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Front-End+Developer;React+Developer;UI+Enthusiast;Always+Learning+New+Things" />
@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-* 💻 Front-End Developer from India
-* ⚛️ Skilled in React.js, JavaScript
-* 🎯 Focused on building responsive & clean UI
-* 📈 Currently looking for opportunities
+* Passionate Front-End Developer with strong skills in building responsive and user-friendly web applications
+* Skilled in HTML, CSS, JavaScript, React.js
+* Love creating clean UI & improving user experience
+* Currently looking for entry-level opportunities
 
 ---
 
@@ -21,6 +21,22 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
+
+---
+
+## 📌 Projects
+
+🌐 Portfolio
+🔗 https://nehal-nizam-portfolio.netlify.app
+
+🏏 Cricket Website
+🔗 https://cricket-website-6.netlify.app
+
+🛠️ Urban Company Clone
+🔗 https://urban-company-28.netlify.app
+
+🛒 Meesho Clone
+🔗 https://meesho-e-commerce-28.netlify.app
 
 ---
 
@@ -33,19 +49,19 @@
 
 ---
 
-## 📌 Projects
+## 📫 Contact Me
 
-🔗 Portfolio: https://nehal-nizam-portfolio.netlify.app
-🔗 Urban Company Clone
-🔗 Meesho Clone
-🔗 Cricket Website
+📧 [nizamuddindbg21@gmail.com](mailto:nizamuddindbg21@gmail.com)
+📱 +91 7492978991
+
+🔗 GitHub: https://github.com/nizamnehal
+🔗 LinkedIn: https://www.linkedin.com/in/md-nizam-nehal21
 
 ---
 
-## 📫 Connect With Me
+## ⚡ Fun Fact
 
-📧 [nizamuddindbg21@gmail.com](mailto:nizamuddindbg21@gmail.com)
-🔗 https://www.linkedin.com/in/md-nizam-nehal21
+I enjoy turning ideas into real-world web applications 🚀
 
 ---
 
