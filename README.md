@@ -68,3 +68,10 @@ I enjoy turning ideas into real-world web applications 🚀
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nizamnehal&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
